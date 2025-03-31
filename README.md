@@ -25,8 +25,8 @@ Pygit Version Control system(GIT INSPIRED || Made in Python for learning purpose
 - **`cls/clear`**: Clear the screen.
 - **`exit`**: Exit the terminal.
 
-[Logo](images/pygit2.png)
-[Logo1](images/1.png)
-[Logo2](images/2.png)
-[Logo3](images/3.png)
-[Logo4](images/4.png)
+![Logo](images/pygit2.png)
+![Logo1](images/1.png)
+![Logo2](images/2.png)
+![Logo3](images/3.png)
+![Logo4](images/4.png)
