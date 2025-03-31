@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PyGit Terminal
+Exec=/usr/bin/pygit --terminal
+Type=Application
+Icon=/usr/share/pixmaps/pygit.ico
+Terminal=false
+Categories=Utility;
